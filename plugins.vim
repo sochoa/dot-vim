@@ -10,5 +10,4 @@ Plugin 'hashivim/vim-terraform'
 source ~/.vim/dot-vim/vundle/ctags.vim
 source ~/.vim/dot-vim/vundle/tagbar.vim
 source ~/.vim/dot-vim/vundle/ctrlp.vim
-source ~/.vim/dot-vim/vundle/color.vim
 

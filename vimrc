@@ -5,3 +5,4 @@ source ~/.vim/dot-vim/mappings.vim
 source ~/.vim/dot-vim/settings.vim
 source ~/.vim/dot-vim/exit-insert.vim
 source ~/.vim/dot-vim/file-type.vim
+source ~/.vim/dot-vim/vundle/color.vim
